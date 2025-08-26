@@ -52,7 +52,8 @@ Add your API key manually in a secret_key.py file like this:
 
 API_KEY = "your_api_key_here"
 
-## LIVE DEMO:
+## App Screenshot:
+![App Screenshot](screenshot .png)
 
 
 
