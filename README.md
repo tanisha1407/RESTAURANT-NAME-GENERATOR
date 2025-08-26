@@ -17,10 +17,15 @@ This project is useful for entrepreneurs, developers, and anyone brainstorming n
 ## 📂 Project Structure
 RestaurantNameGenerator/
 │── main.py # Main script to run the generator
+
 │── generator.py # Core logic for name generation
+
 │── secret_key.py # API key handler (excluded from repo)
+
 │── requirements.txt # Python dependencies
+
 │── README.md # Project documentation
+
 │── pycache/ # Cache files (ignored)
 
 
@@ -53,7 +58,7 @@ Add your API key manually in a secret_key.py file like this:
 API_KEY = "your_api_key_here"
 
 ## App Screenshot:
-![App Screenshot](Screenshot2025-08-27000125.png)
+<img src="https://github.com/tanisha1407/RESTAURANT-NAME-GENERATOR/blob/master/Screenshot%202025-08-27%20000125.png"  alt="Logo" width="300"/>
 
 
 
