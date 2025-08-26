@@ -53,7 +53,7 @@ Add your API key manually in a secret_key.py file like this:
 API_KEY = "your_api_key_here"
 
 ## App Screenshot:
-![App Screenshot](Screenshot 2025-08-27 000125.png)
+![App Screenshot](Screenshot2025-08-27000125.png)
 
 
 
